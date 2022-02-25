@@ -6,7 +6,7 @@
 1. [γραμμικός ενεργοποιητής](https://grobotronics.com/solenoid-12v-jf-0826b.html) για τον έλεγχο κλειδώματος του δοχείου, δύο τεμάχια συνολικού κόστους 16€,
 2. [ηλεκτρονόμος](https://grobotronics.com/relay-module-4-channel.html) για τον έλεγχο του γραμμικού ενεργοποιητή (6€),
 3. [αισθητήρας υπολογισμού θέσης](https://grobotronics.com/infrared-proximity-sensor-short-range-sharp-gp2y0a41sk0f.html) για τον έλεγχο πληρότητας του δοχείου, δύο τεμάχια συνολικού κόστους 24€,
-4. [ρομποτικος ελεγκτής Arduino Uno Rev3](https://grobotronics.com/arduino-uno-rev3.html) (22€),
+4. [ρομποτικός ελεγκτής Arduino Uno Rev3](https://grobotronics.com/arduino-uno-rev3.html) (22€),
 5. δοχεία απορριμάτων και σχετικές κατασκευές στήριξής τους (40€) και
 6. καλώδια διάφορων ειδών και πλακέτες δοκιμών (20€)
 ## Ενδεικτικό κόστος
