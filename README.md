@@ -3,7 +3,7 @@
 Η ομάδα Transformers του 2ου Γυμνάσιου Χανίων συμμετέχει στον 4o Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών, σχεδιάζοντας, προγραμματίζοντας και κατασκευάζοντας το πρωτότυπο ρομπότ binBot. Το binBot είναι ένα ρομπότ που εφαρμόζει την κυκλική οικονομία στη διαχείριση των απορριμάτων.
 
 Η ιστοσελίδα της ομάδας στο robotics.ellak βρίσκεται στην παρακάτω διεύθυνση:
-λξηηκηκηκηκηη
+[https://openedtech.ellak.gr/robotics2022/2o-gimnasio-chanion-4os-panellinios-diagonismos-anichton-technologion/](https://openedtech.ellak.gr/robotics2022/2o-gimnasio-chanion-4os-panellinios-diagonismos-anichton-technologion/)
 
 ![Η ομάδα Transformers και το πρωτότυπο ρομπότ binBot](photos/binBot_2.jpg)
 
@@ -104,7 +104,7 @@
 
 <img src="schediasi/block_diagram.jpg" width=60%>
 
-Αρχικό σχέδιο του αλγόριθμου ελέγχου του binBot
+*Αρχικό σχέδιο του αλγόριθμου ελέγχου του binBot*
 
 Ο αλγόριθμος που αναπτύχθηκε για τον έλεγχο του binBot αποτελείται από κανόνες της μορφής:
 - ΑΝ (γίνει κάτι) ΤΟΤΕ (το ρομπότ παράγει μια ενέργεια),
