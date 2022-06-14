@@ -33,7 +33,7 @@ void loop()
   if (sensor1>205 or sensor2>205)
   {
     lcd.setCursor(0, 0);
-    lcd.print("The BinBot robot");
+    lcd.print("The BinBot      ");
     lcd.setCursor(0, 1);
     lcd.print("     is FULL    ");
     digitalWrite(13, HIGH);
@@ -48,7 +48,7 @@ void loop()
   {
     digitalWrite(13, LOW);
     lcd.setCursor(0, 0);
-    lcd.print("The BinBot robot");
+    lcd.print("The BinBot      ");
     lcd.setCursor(0, 1);
     lcd.print("    is ready    ");
     myservo.write(0);
