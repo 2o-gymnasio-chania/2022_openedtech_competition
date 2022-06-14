@@ -26,9 +26,12 @@
 - Εξοικονόμηση ενέργειας
 
 Για περισσότερες πληροφορίες δείτε το παρακάτω βίντεο:
-[Παρουσίαση inBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
+[Παρουσίαση binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
 
 ### Αναλυτική περιγραφή της ιδέας ###
+
+Στο παρακάτω βίντεο υπάρχει μια περιγραφή των λειτουργιών του binBot:
+[Περιγραφή των λειτουργιών του binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
 
 <img src="schediasi/idees/idea_1.jpg" width=60%>
 
