@@ -26,12 +26,14 @@
 - Εξοικονόμηση ενέργειας
 
 Για περισσότερες πληροφορίες δείτε το παρακάτω βίντεο:
-[Παρουσίαση binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
+
+- [Παρουσίαση binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
 
 ### Αναλυτική περιγραφή της ιδέας ###
 
 Στο παρακάτω βίντεο υπάρχει μια περιγραφή των λειτουργιών του binBot:
-[Περιγραφή των λειτουργιών του binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
+
+- [Περιγραφή των λειτουργιών του binBot](https://www.youtube.com/shorts/2yKqWsYyQEw)
 
 <img src="schediasi/idees/idea_1.jpg" width=60%>
 
@@ -99,6 +101,11 @@
 *Αρχικά σχέδια της ιδέας για το πρωτότυπο ρομπότ κυκλικής οικονομίας binBot*
 
 ### Αλγόριθμος ###
+
+<img src="schediasi/block_diagram.jpg" width=60%>
+
+Αρχικό σχέδιο του αλγόριθμου ελέγχου του binBot
+
 Ο αλγόριθμος που αναπτύχθηκε για τον έλεγχο του binBot αποτελείται από κανόνες της μορφής:
 - ΑΝ (γίνει κάτι) ΤΟΤΕ (το ρομπότ παράγει μια ενέργεια),
 
